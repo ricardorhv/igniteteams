@@ -4,7 +4,7 @@
 
 <hr>
 
-## ⚠️ In progress
+<h1 align="center">⚠️ In progress</h1>
 
 <img src="./.github/capa.png">
 
